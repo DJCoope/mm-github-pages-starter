@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Welcome to Bitcoinbedrock
+layout: single
+title: "Welcome to Bitcoinbedrock"
 permalink: /
+author_profile: false
 ---
 
 ## 🪙 Bitcoin basics for the next generation
