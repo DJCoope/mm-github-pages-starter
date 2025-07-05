@@ -17,7 +17,7 @@ title: Bitcoinbedrock.org
 email: bitcoinbedrock.org
 description: "Making Bitcoin easy for kids aged 8 to 12"
 logo:
-  path: "/assets/images/Bitcoinbedrock logo.png"
+  path: /assets/images/bitcoinbedrock-logo.png
   alt: "Bitcoinbedrock Logo"
 twitter_username: username
 github_username: username
