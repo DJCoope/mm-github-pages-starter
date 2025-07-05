@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Welcome to Bitcoinbedrock"
 permalink: /
 author_profile: false
