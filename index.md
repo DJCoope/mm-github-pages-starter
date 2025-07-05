@@ -8,6 +8,7 @@ permalink: /
 
 Bitcoinbedrock is an educational platform built to empower bright young minds with the basics of Bitcoin. Designed for curious kids aged 8–12, it makes digital money simple, fun, and safe to explore. Here, children discover the power of Bitcoin — one block at a time — through playful lessons, stories, and interactive activities.  
 
+**Simple lessons. Solid foundations. Strong futures.**
 ---
 
 ### 🚀 What You'll Find Here
