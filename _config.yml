@@ -19,6 +19,8 @@ description: "Making Bitcoin easy for kids aged 8 to 12"
 logo:
   path: /assets/images/bitcoinbedrock-logo-dark.png
   alt: "Bitcoinbedrock Logo"
+header:
+  logo: "/assets/images/bitcoinbedrock-logo-dark.png"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
