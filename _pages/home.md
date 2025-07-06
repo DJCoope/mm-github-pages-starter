@@ -9,6 +9,11 @@ header:
   actions:
     - label: "Get Started"
       url: "#learn-the-basics"
+  description: >
+    Bitcoinbedrock is an educational platform built to empower bright young minds with the basics of Bitcoin.
+    Designed for curious kids aged 8–12, it makes digital money simple, fun, and safe to explore.
+    Here, children discover the power of Bitcoin — one block at a time — through playful lessons, stories,
+    and interactive activities. It’s Bitcoin basics for the next generation.
 excerpt: "Bitcoin basics for the next generation."
 intro: 
   - excerpt: 'Bitcoinbedrock is an educational website for curious kids aged 8–12. It makes digital money simple, fun, and safe to explore.'
