@@ -18,7 +18,7 @@ email: bitcoinbedrock.org
 description: "Making Bitcoin easy for kids aged 8 to 12"
 header:
   logo:
-    path: /assets/images/logo.png
+    path: /assets/images/bitcoinbedrock-logo.png
     alt: "Bitcoin Bedrock Logo"
     width: 100
 twitter_username: username
