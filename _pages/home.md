@@ -4,8 +4,8 @@ title: "Welcome to Bitcoinbedrock"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/logo.png
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/bedrock-banner.jpg
   actions:
     - label: "Get Started"
       url: "#learn-the-basics"
